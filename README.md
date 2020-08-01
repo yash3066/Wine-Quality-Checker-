@@ -18,4 +18,4 @@ Following are the different clasifcation i implemented on the model.
 4) __Decision Tree Classifier__ 
 5) __Random Forest Classifier__
 
-And the highest accuracy was of __Random Forest Classifier__. And one of the reasons as to why our models perform poorly is due to the highly subjective nature of the dataset. We can also possibly improve these results by using different models or tweaking the hyperparameters of our current models.
+And the highest accuracy was of __Random Forest Classifier__. And one of the reasons as to why our models perform poorly is due to the highly subjective nature of the dataset. We can also possibly improve these results by using different models or tweaking the hyperparameters of our current models
