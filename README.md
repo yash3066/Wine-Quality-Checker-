@@ -8,7 +8,7 @@ The dataset sontains information about the fixed acidity, volatile acidity, citr
 Used __seaborn__ for the visualization of the correlation of the columns in dataset.
 And used __boxplot__ to show distribution with respect to categories.
 
-We then fit different models to check which model has the highest accuracy. We used __Simple Linear Regression__ and __Multiple LInear Regression with Lasso Regression__
+We then fit different models to check which model has the highest accuracy. We used __Simple Linear Regression__ and __Multiple Lnear Regression with Lasso Regression__
 
 I did a variety of classification for the model to check for the highest accuracy.
 Following are the different clasifcation i implemented on the model.
